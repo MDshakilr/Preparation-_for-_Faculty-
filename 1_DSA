@@ -1,0 +1,102 @@
+🔹 1. Array Basics
+
+
+ why Array 
+
+Characteristics of Array
+(same data type, fixed size, contiguous memory)
+
+Indexing (0-based)
+
+Memory representation
+
+2. Types of Array
+
+1D Array
+
+2D Array
+
+Multi-dimensional Array
+
+Static Array
+
+Dynamic Array (new, delete)
+
+🔹 3. Basic Operations (Algorithms)
+
+
+
+1️⃣ Traversal
+2️⃣ Insertion
+
+Beginning
+
+End
+
+Specific Position
+3️⃣ Deletion
+
+Beginning
+
+End
+
+Specific Position
+4️⃣ Updating
+5️⃣ Searching
+
+🔹 4. Searching Algorithms
+
+Linear Search
+
+Binary Search
+
+Condition (sorted array)
+
+Algorithm steps
+
+Time complexity
+
+🔹 5. Sorting Algorithms (Array ভিত্তিক)
+
+Bubble Sort
+
+Selection Sort
+
+Insertion Sort
+
+(Advanced) Merge Sort
+
+(Advanced) Quick Sort
+
+🔹 6. Time & Space Complexity (Must)
+
+Traversal → O(n)
+
+Insertion → O(n)
+
+Deletion → O(n)
+
+Linear Search → O(n)
+
+Binary Search → O(log n)
+
+Sorting → O(n²), O(n log n)
+
+🔹 7. Array vs Others (Viva favourite)
+
+Array vs Linked List
+
+Static vs Dynamic Array
+
+🔹 8. Common Problems (Practice)
+
+Find max / min
+
+Reverse an array
+
+Count frequency
+
+Merge two arrays
+
+Remove duplicate
+
